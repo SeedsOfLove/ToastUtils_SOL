@@ -1,4 +1,4 @@
-package com.bluewater.lib;
+package com.bluewater.toastutilslib;
 
 import org.junit.Test;
 

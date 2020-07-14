@@ -8,7 +8,7 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.bluewater.lib.ToastUtils;
+import com.bluewater.toastutilslib.ToastUtils;
 
 public class MainActivity extends AppCompatActivity
 {
