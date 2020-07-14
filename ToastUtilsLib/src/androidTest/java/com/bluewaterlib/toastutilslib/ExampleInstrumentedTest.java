@@ -1,4 +1,4 @@
-package com.bluewater.demo;
+package com.bluewaterlib.toastutilslib;
 
 import android.content.Context;
 
@@ -23,6 +23,6 @@ public class ExampleInstrumentedTest
     {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.bluewater.demo", appContext.getPackageName());
+        assertEquals("com.bluewater.lib.test", appContext.getPackageName());
     }
 }

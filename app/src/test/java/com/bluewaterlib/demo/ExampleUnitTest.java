@@ -1,4 +1,4 @@
-package com.bluewater.demo;
+package com.bluewaterlib.demo;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.bluewater.toastutilslib;
+package com.bluewaterlib.toastutilslib;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -13,7 +13,6 @@ import android.widget.Toast;
 
 import androidx.annotation.ColorInt;
 import androidx.core.content.ContextCompat;
-import com.bluewater.toastutilslib.R;
 
 /**
  * 吐司工具类
