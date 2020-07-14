@@ -1,4 +1,4 @@
-package com.bluewaterlib.demo;
+package com.bluewater.demo;
 
 import android.app.Activity;
 import android.content.Context;
@@ -8,7 +8,7 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.bluewaterlib.toastutilslib.ToastUtils;
+import com.bluewater.toastutilslib.ToastUtils;
 
 public class MainActivity extends AppCompatActivity
 {

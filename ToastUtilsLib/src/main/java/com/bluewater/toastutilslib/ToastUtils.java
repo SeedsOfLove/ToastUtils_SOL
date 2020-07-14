@@ -1,4 +1,4 @@
-package com.bluewaterlib.toastutilslib;
+package com.bluewater.toastutilslib;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
