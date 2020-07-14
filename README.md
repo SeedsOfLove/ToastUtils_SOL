@@ -14,7 +14,7 @@ allprojects {
 ### Step 2. Add the dependency
 ```
 dependencies {
-        implementation 'com.github.SeedsOfLove:ToastUtils_SOL:1.0.1'
+        implementation 'com.github.SeedsOfLove:ToastUtils_SOL:1.0.3'
 	}
 ```
 
